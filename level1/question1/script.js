@@ -45,7 +45,6 @@ function checkNumber() {
     var phoneValue = document.getElementById("phoneNumber");
     var finalValue = numPatt.test(phoneValue.value);
    
-    
     if (finalValue === true) {
         console.log("PhoneNumber is OK!");
     }
@@ -53,6 +52,8 @@ function checkNumber() {
         console.log("PhoneNumber is missing!");
     };
 };
+
+// A function to combine all the other one, this is the one that's called from index.html
 
 function multipleFunctions() {
     checkNumber();
