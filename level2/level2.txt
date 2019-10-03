@@ -4,7 +4,7 @@ Level 2
 
 1. In your own words, describe what JavaScript Code Style is.
         Javascript codestyle is how the individual person like to write their own code with personal taste.
-        In javascript there are a set of unwritten rules, like include block "{}", even when javascript would have run just fine without.
+        In javascript there are a set of "unwritten" rules, like include block "{}", even when javascript would have run just fine without.
 
 2. What is a Regular Expression?
         A regular Expression (Regex) is a "pattern" we can create to check for specific values.
